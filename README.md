@@ -6,6 +6,5 @@ vStream est un addon qui vous permet de visionner en Streaming un grand nombre d
 de télécharger certaine source, de les mettre en favoris ou de voir la bande annonce. 
 Le tout depuis KODI avec son Dépôt et son Patch régulièrement Mis à Jour en téléchargement au https://github.com/ludopotte/vStream
 avec des Fichiers Externes disponible au https://github.com/ludopotte/vStream/releases
-
 vStream à son Patch Provisoire disponible au https://github.com/ludopotte/vStream/releases/tag/patchprovisoire
 
