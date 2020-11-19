@@ -8,5 +8,4 @@ Le tout depuis KODI avec son Dépôt et son Patch régulièrement Mis à Jour au
 
 Fichiers Externes disponible au https://github.com/ludopotte/vStream/releases
 
-Le Patch Provisoire est disponible au https://github.com/ludopotte/vStream/releases/tag/patchprovisoire
 
