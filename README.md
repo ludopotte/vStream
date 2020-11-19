@@ -8,4 +8,6 @@ Le tout depuis KODI avec son Dépôt et son Patch régulièrement Mis à Jour au
 
 Fichiers Externes disponible au https://github.com/ludopotte/vStream/releases
 
+Patch vStream à installer manuellement au https://github.com/ludopotte/vStream/releases/tag/patchvstream
+
 
