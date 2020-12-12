@@ -8,6 +8,10 @@ Le tout depuis KODI avec son Dépôt et son Patch régulièrement Mis à Jour au
 
 Fichiers Externes disponible au https://github.com/ludopotte/vStream/releases
 
-Beta vStream à installer manuellement au https://github.com/ludopotte/vStream/releases/tag/betaprovisoire
+Beta Provisoire vStream à installer manuellement au https://github.com/ludopotte/vStream/releases/tag/betaprovisoire
+
+Installation de la Beta vStream au https://github.com/ludopotte/vStream/releases/tag/betavstream
+
+
 
 
