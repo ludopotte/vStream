@@ -14,8 +14,8 @@ Installation de la Beta vStream au https://github.com/ludopotte/vStream/releases
 
 Patch vStream à installer manuellement au https://github.com/ludopotte/vStream/releases/tag/patchvstream
 
-Pack de vStream à telecharger au 
-https://github.com/ludopotte/vStream/releases/tag/packvstream
+Starter Pack de vStream à telecharger au https://github.com/ludopotte/vStream/releases/tag/starterpackvstream
+
 
 
 
