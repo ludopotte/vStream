@@ -12,11 +12,8 @@ Beta Provisoire vStream à installer manuellement au https://github.com/ludopott
 
 Installation de la Beta vStream au https://github.com/ludopotte/vStream/releases/tag/betavstream
 
-Patch vStream à installer manuellement au https://github.com/ludopotte/vStream/releases/tag/patchvstream
-
 Starter Pack de vStream à telecharger au https://github.com/ludopotte/vStream/releases/tag/starterpackvstream
 
-vStream en 2021 à telecharger au https://github.com/ludopotte/vStream/releases/tag/vstream2021
 
 
 
