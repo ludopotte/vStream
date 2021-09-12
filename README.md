@@ -10,8 +10,6 @@ Fichiers Externes disponible au https://github.com/ludopotte/vStream/releases
 
 Beta Provisoire vStream à installer manuellement au https://github.com/ludopotte/vStream/releases/tag/betaprovisoire
 
-Installation de la Beta vStream au https://github.com/ludopotte/vStream/releases/tag/betavstream
-
 Starter Pack de vStream à telecharger au https://github.com/ludopotte/vStream/releases/tag/starterpackvstream
 
 
