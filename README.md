@@ -12,7 +12,7 @@ Beta Provisoire vStream à installer manuellement au https://github.com/ludopott
 
 Inscrivez-vous à la Newsletter de vStream au https://app.partager.io/publication/vstream
 
-Extension de vStream à installer directement sur PC, Android/Android TV et iOS au https://bit.ly/extensionvstream
+Extension de vStream à installer directement sur PC, Android/Android TV et iOS au https://31u1.short.gy/vstreamkodi
 
 
 
