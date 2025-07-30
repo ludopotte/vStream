@@ -8,11 +8,9 @@ Le tout depuis KODI avec son Dépôt et son Patch régulièrement Mis à Jour au
 
 Fichiers Externes disponible au https://github.com/ludopotte/vStream/releases
 
-Beta Provisoire vStream à installer manuellement au https://github.com/ludopotte/vStream/releases/tag/betaprovisoire
-
-Inscrivez-vous à la Newsletter de vStream au https://app.partager.io/publication/vstream
-
 Extension de vStream à installer directement sur PC, Android/Android TV et iOS au https://31u1.short.gy/vstreamkodi
+
+vStream sur Telegram au https://lc.cx/L_BlYa
 
 
 
