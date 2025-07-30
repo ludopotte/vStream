@@ -10,7 +10,7 @@ Fichiers Externes disponible au https://github.com/ludopotte/vStream/releases
 
 Extension de vStream à installer directement sur PC, Android/Android TV et iOS au https://31u1.short.gy/vstreamkodi
 
-vStream sur Telegram au https://lc.cx/L_BlYa
+vStream sur Telegram au https://t.me/vstreamkodi
 
 
 
