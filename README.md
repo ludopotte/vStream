@@ -8,7 +8,7 @@ Le tout depuis KODI avec son Dépôt et son Patch régulièrement Mis à Jour au
 
 Fichiers Externes disponible au https://github.com/ludopotte/vStream/releases
 
-Extension de vStream à installer directement sur PC, Android/Android TV et iOS au https://31u1.short.gy/vstreamkodi
+Extension de vStream à installer directement sur PC, Android/Android TV et iOS au https://31u1.short.gy/vstreambeta
 
 vStream sur Telegram au https://t.me/vstreamkodi
 
