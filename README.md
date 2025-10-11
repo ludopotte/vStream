@@ -12,6 +12,7 @@ Extension de vStream à installer directement sur PC, Android/Android TV et iOS 
 
 vStream sur Telegram au https://t.me/vstreamkodi
 
+vStream sur Mastodon au https://mastodon.social/@vstream
 
 
 
